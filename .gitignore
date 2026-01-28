@@ -1,0 +1,17 @@
+# Build output
+main.js
+*.js.map
+
+# npm
+node_modules/
+
+# Swift build
+swift-ocr/.build/
+ocr-cli
+
+# IDE
+.idea/
+*.sublime-workspace
+
+# macOS
+.DS_Store

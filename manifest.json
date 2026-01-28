@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-ocr-macos",
+	"name": "OCR for macOS",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Automatically extract text from images using macOS Vision framework, making image content searchable.",
+	"author": "Theo Weiss",
+	"authorUrl": "https://github.com/theoweiss",
+	"isDesktopOnly": true
+}
